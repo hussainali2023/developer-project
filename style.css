@@ -126,7 +126,21 @@ h2{
     padding-right: 150px;
     padding-bottom: 30px;
     padding-top: 30px;
-
-    
 }
-
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 130px;
+    padding-top: 40px;
+    padding-bottom: 150px;
+}
+h3{
+    font-size: 30px;
+}
+.last1{
+    color: orange;
+}
+.last2{
+    color: rgb(58, 56, 56);
+}
