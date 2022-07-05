@@ -1,0 +1,115 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    font-family:0 'Roboto Slab', serif;
+    font-family: 'Trispace', sans-serif;
+    margin-left: 0;
+    margin-right: 0;
+
+}
+h1 {
+    
+font-size: 60px;
+}
+h1 span{
+    color: orange;
+}
+.top-p{
+    margin-bottom: 50px;
+    font-family: 'Gentium Book Plus', serif;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    font-weight: 800;
+    padding: 17px 35px;
+    border-radius: 25px;
+    margin-top: 20px;
+    font-family: 'Gentium Book Plus', serif;
+
+
+}
+
+.images{
+    display: flex;
+    padding-top: 150px;
+    padding-left: 80px;
+    margin-bottom: 100px;
+   
+}
+.same{
+    width: 50%;
+    margin-left: 10px;
+ 
+
+}
+.same img{
+    width: 95%;
+    padding-right: 70px;
+ 
+
+}
+.about-me{
+    background-image: url(images/7.png);
+    background-repeat:no-repeat;
+    display: flex;
+    margin-left: 0;
+    margin-right: 0;
+}
+.middle-left{
+    width: 50%;
+  padding-left: 200px;
+  padding-top: 50px;
+}
+.middle-right{
+    width: auto;
+    padding-top: 70px;
+    padding-right: 250px;
+    margin-left: 150px;
+}
+h2{
+    font-size: 45px;
+}
+.middle-text{
+    font-size: 20px;
+    margin-bottom: 80px;
+}
+#hyper{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    font: weight 900px;
+    padding:25px 45px;
+    border-radius: 50px;
+    margin-top: 20px;
+    font-family: 'Gentium Book Plus', serif;
+    font-size: 20px;
+}
+.center-part{
+    padding: top 20px;
+    text-align: center;
+}
+.recipe{
+    display:flex;
+
+  
+}
+.parent{
+    width: 50%;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 0;
+    box-shadow: 10px 10px 70px gray;
+    border-radius: 50px;
+
+
+   
+}
+.grand{
+    display:inline-block;
+}
